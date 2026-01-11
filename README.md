@@ -1,6 +1,6 @@
 # Unmanned drone simulation – Paris
 
-## Project Description
+## Project description
 This project is a Unity simulation of an unmanned drone flying over Paris.  
 The environment is generated using **Cesium for Unity**, providing real-world 3D geographic data.
 
@@ -8,7 +8,7 @@ The project aims to simulate drone navigation in a realistic urban environment a
 
 ---
 
-## Project Goal
+## Project goal
 - Simulate the flight of an unmanned drone
 - Explore Paris using real-world 3D data
 - Control a drone inside a realistic city environment
@@ -45,7 +45,7 @@ A VR version of the project was planned using the **XR Interaction Toolkit**.
 
 ---
 
-## Unity Version and compatibility (Important)
+## Unity version and compatibility (Important)
 
 This project was developed using: Unity 2022.3.62f1 (LTS)
 
@@ -61,7 +61,7 @@ For this reason, the project was intentionally created with **Unity 2022.3 LTS**
 
 ---
 
-## Main Scene
+## Main scene
 
 The main Unity scene of the project is Projet1unmanned.unity. 
 
@@ -74,7 +74,7 @@ This scene contains:
 
 ---
 
-## Technologies Used
+## Technologies used
 - Unity 2022.3.62f1 (LTS)
 - C#
 - Cesium for Unity
