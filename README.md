@@ -1,4 +1,4 @@
-# Unmanned drone simulation – Paris
+# Unmanned drone simulation in Paris
 
 ## Project description
 This project is a Unity simulation of an unmanned drone flying over Paris.  
